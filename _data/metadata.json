@@ -1,0 +1,20 @@
+{
+  "title": "Puppy Writes",
+  "url": "https://example.com/",
+  "language": "en",
+  "description": "I am writing about my experiences.",
+  "feed": {
+    "subtitle": "I am writing about my experiences.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Puppy",
+    "url": "https://example.com/about-me/"
+  }
+}
